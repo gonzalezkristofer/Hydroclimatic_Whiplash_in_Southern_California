@@ -1,0 +1,25 @@
+﻿DetectionMethod,Variable,Habitat,WindowNumber,Window,ThresholdMethod,DryThreshold,WetThreshold,SearchK,DurationClassK,DurationClass,StartDate,EndDate,StartYear,StartMonth,EndYear,EndMonth,StartWY,EndWY,LagMonths,Direction,StartSeason,EndSeason,StartZ,EndZ
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1983-08-01,1984-02-01,1983,8,1984,2,1983,1984,6,Wet->Dry,Dry,Wet,2.906733232815935,-0.8725432253969969
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1984-02-01,1984-07-01,1984,2,1984,7,1984,1984,5,Dry->Wet,Wet,Dry,-0.8725432253969969,1.253899277133778
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1984-09-01,1985-03-01,1984,9,1985,3,1984,1985,6,Wet->Dry,Dry,Wet,2.0878450461189,-0.9227562477401445
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1985-05-01,1985-11-01,1985,5,1985,11,1985,1986,6,Dry->Wet,Dry,Wet,-0.882504628069729,1.922348079650964
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1990-01-01,1990-07-01,1990,1,1990,7,1990,1990,6,Dry->Wet,Wet,Dry,-0.932861155158603,0.8256979277135439
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1990-07-01,1990-11-01,1990,7,1990,11,1990,1991,4,Wet->Dry,Dry,Wet,0.8256979277135439,-0.9323175691286446
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1990-11-01,1991-03-01,1990,11,1991,3,1991,1991,4,Dry->Wet,Wet,Wet,-0.9323175691286446,0.8519984921172923
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1993-03-01,1993-09-01,1993,3,1993,9,1993,1993,6,Wet->Dry,Wet,Dry,2.390688776611364,-0.87800887068957
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1995-05-01,1995-10-01,1995,5,1995,10,1995,1996,5,Wet->Dry,Dry,Dry,1.679625307311547,-0.8557393334932102
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1996-11-01,1997-04-01,1996,11,1997,4,1997,1997,5,Wet->Dry,Wet,Wet,0.9994940270523258,-1.413610559942932
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1997-04-01,1997-09-01,1997,4,1997,9,1997,1997,5,Dry->Wet,Wet,Dry,-1.413610559942932,1.231114997305029
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1998-06-01,1998-12-01,1998,6,1998,12,1998,1999,6,Wet->Dry,Dry,Wet,3.000365557070865,-0.8137788450523308
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1998-12-01,1999-06-01,1998,12,1999,6,1999,1999,6,Dry->Wet,Wet,Dry,-0.8137788450523308,1.041030431357092
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,1999-06-01,1999-10-01,1999,6,1999,10,1999,2000,4,Wet->Dry,Dry,Dry,1.041030431357092,-0.8321325035505386
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,2004-05-01,2004-10-01,2004,5,2004,10,2004,2005,5,Dry->Wet,Dry,Dry,-0.9342731795790776,3.964185060639328
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,2006-01-01,2006-05-01,2006,1,2006,5,2006,2006,4,Dry->Wet,Wet,Dry,-0.8159886408076795,1.261307979660341
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,2006-05-01,2006-10-01,2006,5,2006,10,2006,2007,5,Wet->Dry,Dry,Dry,1.261307979660341,-0.8037747071351351
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,2007-07-01,2008-01-01,2007,7,2008,1,2007,2008,6,Dry->Wet,Dry,Wet,-0.9344916704194172,0.8534993075255618
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,2009-09-01,2010-02-01,2009,9,2010,2,2009,2010,5,Dry->Wet,Dry,Wet,-0.9243512107756796,0.8419006275932923
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,2015-03-01,2015-07-01,2015,3,2015,7,2015,2015,4,Dry->Wet,Wet,Dry,-1.02651712789905,2.931527967938647
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,2017-01-01,2017-05-01,2017,1,2017,5,2017,2017,4,Wet->Dry,Wet,Dry,1.460745811115428,-0.952787338869586
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,2019-04-01,2019-10-01,2019,4,2019,10,2019,2020,6,Wet->Dry,Wet,Dry,0.8457490558825274,-0.9132817154535794
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,2020-05-01,2020-09-01,2020,5,2020,9,2020,2020,4,Wet->Dry,Dry,Dry,1.692155605194628,-0.9574288058793559
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,6,6,4-6 months,2021-06-01,2021-12-01,2021,6,2021,12,2021,2022,6,Dry->Wet,Dry,Wet,-1.039459060379171,1.102284094713799

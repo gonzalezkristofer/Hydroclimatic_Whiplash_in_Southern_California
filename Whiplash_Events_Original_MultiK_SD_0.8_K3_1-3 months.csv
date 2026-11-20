@@ -1,0 +1,22 @@
+﻿DetectionMethod,Variable,Habitat,WindowNumber,Window,ThresholdMethod,DryThreshold,WetThreshold,SearchK,DurationClassK,DurationClass,StartDate,EndDate,StartYear,StartMonth,EndYear,EndMonth,StartWY,EndWY,LagMonths,Direction,StartSeason,EndSeason,StartZ,EndZ
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,1983-11-01,1984-02-01,1983,11,1984,2,1984,1984,3,Wet->Dry,Wet,Wet,2.110837687077578,-0.8725432253969969
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,1984-04-01,1984-07-01,1984,4,1984,7,1984,1984,3,Dry->Wet,Wet,Dry,-1.369376710106374,1.253899277133778
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,1984-12-01,1985-03-01,1984,12,1985,3,1985,1985,3,Wet->Dry,Wet,Wet,1.186278760961492,-0.9227562477401445
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,1990-04-01,1990-07-01,1990,4,1990,7,1990,1990,3,Dry->Wet,Wet,Dry,-0.8336893634290138,0.8256979277135439
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,1990-12-01,1991-03-01,1990,12,1991,3,1991,1991,3,Dry->Wet,Wet,Wet,-1.207138957860014,0.8519984921172923
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,1991-03-01,1991-06-01,1991,3,1991,6,1991,1991,3,Wet->Dry,Wet,Dry,0.8519984921172923,-1.042498024000948
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,1995-07-01,1995-10-01,1995,7,1995,10,1995,1996,3,Wet->Dry,Dry,Dry,1.054002447775287,-0.8557393334932102
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,1996-09-01,1996-11-01,1996,9,1996,11,1996,1997,2,Dry->Wet,Dry,Wet,-0.8044328453555304,0.9994940270523258
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,1997-01-01,1997-04-01,1997,1,1997,4,1997,1997,3,Wet->Dry,Wet,Wet,0.9576010844827816,-1.413610559942932
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,1997-06-01,1997-09-01,1997,6,1997,9,1997,1997,3,Dry->Wet,Dry,Dry,-0.994965016510847,1.231114997305029
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,2004-07-01,2004-10-01,2004,7,2004,10,2004,2005,3,Dry->Wet,Dry,Dry,-0.9731589593600994,3.964185060639328
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,2005-10-01,2006-01-01,2005,10,2006,1,2006,2006,3,Wet->Dry,Dry,Wet,0.8812545893411808,-0.8159886408076795
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,2007-11-01,2008-01-01,2007,11,2008,1,2008,2008,2,Dry->Wet,Wet,Wet,-0.8560950769956499,0.8534993075255618
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,2008-01-01,2008-04-01,2008,1,2008,4,2008,2008,3,Wet->Dry,Wet,Wet,0.8534993075255618,-1.050765328644614
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,2010-09-01,2010-11-01,2010,9,2010,11,2010,2011,2,Dry->Wet,Dry,Wet,-0.9180286598757492,0.8155854424609263
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,2015-04-01,2015-07-01,2015,4,2015,7,2015,2015,3,Dry->Wet,Wet,Dry,-1.120677642260299,2.931527967938647
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,2017-02-01,2017-05-01,2017,2,2017,5,2017,2017,3,Wet->Dry,Wet,Dry,1.236875532610243,-0.952787338869586
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,2019-07-01,2019-10-01,2019,7,2019,10,2019,2020,3,Wet->Dry,Dry,Dry,1.8699333786103,-0.9132817154535794
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,2019-10-01,2019-12-01,2019,10,2019,12,2020,2020,2,Dry->Wet,Dry,Wet,-0.9132817154535794,0.9611089037546608
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,2020-06-01,2020-09-01,2020,6,2020,9,2020,2020,3,Wet->Dry,Dry,Dry,2.511875613161938,-0.9574288058793559
+Original_MultiK,Precipitation,All,3,3-Month Mean,SD_0.8,-0.8,0.8,3,3,1-3 months,2021-12-01,2022-03-01,2021,12,2022,3,2022,2022,3,Wet->Dry,Wet,Wet,1.102284094713799,-1.175309908917189
