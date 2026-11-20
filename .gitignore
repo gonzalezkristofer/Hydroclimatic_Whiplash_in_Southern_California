@@ -219,5 +219,64 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# ==========================================
+# Hydroclimatic Whiplash / Geospatial Data
+# ==========================================
+
+# Rasters, NetCDF, and gridded climate files
+*.tif
+*.tiff
+*.nc
+*.nc4
+*.bil
+*.hdr
+*.flt
+*.asc
+*.grd
+*.dem
+
+# Vector / shapefile sidecars
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.qix
+*.gpkg
+*.geojson
+*.kml
+*.kmz
+
+# Large tabular dumps & Excel workbooks
+*.xlsx
+*.xls
+*Timeseries*.csv
+*3MonthMean*.csv
+*aggregate_pixel_table*.csv
+*event_level_model_input.csv
+
+# Generated figures & output directories
+Publishable_Figures/
+Gridded_Maps/
+Individual_*_Maps/
+Habitat_Barplots/
+Diagnostic_Barplots/
+Figure_5/
+GeoTIFFs/
+CSV_Summaries/
+Event_Level_Statistics/
+outputs/
+output/
+figures/
+plots/
+
+# OS / archive junk
+.DS_Store
+Thumbs.db
+*.zip
+*.tar.gz
+
 # Streamlit
 .streamlit/secrets.toml
